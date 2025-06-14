@@ -226,14 +226,9 @@ python-telegram-bot==13.15
 
 ---
 
-## 📄 License
-
-MIT License
-
----
 
 ## ✍️ Author
 
-Built by [Your Name](https://github.com/YOUR_USERNAME) 💻
+Built by [Sahil Bhandare](https://github.com/saahil4643) 💻
 
 Feel free to fork, star ⭐ and contribute!
